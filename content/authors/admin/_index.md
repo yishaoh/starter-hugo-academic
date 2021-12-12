@@ -1,7 +1,7 @@
 ---
 title: "Yi "
 role: Assistant Professor
-avatar_filename: yi-shao_profolio-min.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
